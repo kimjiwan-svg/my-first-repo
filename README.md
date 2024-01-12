@@ -23,5 +23,9 @@ def say_hello():
 
 ### binet's formula
 
+<<<<<<< HEAD
 $Fn=\dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^n-\left(\dfrac{1-\sqrt{5}}{2}\right)^n}{\sqrt{5}}$
+=======
+$F_n=\dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^n-\left(\dfrac{1-\sqrt{5}}{2}\right)^n}{\sqrt{5}}$
+>>>>>>> ac3508087da61e797f59f9ec33cb34f3c1578f30
 
